@@ -4,13 +4,42 @@
 ### Why?
 > As I was building [dartlib](https://github.com/kevmoo/dartlib) I realized there were few other examples of dart libraries. I was making up conventions (directory names, etc) as I went along based on my experience with *Ruby/Gems* and *node.js* among others.
 
+### Structure
+
+<table>
+  <tr>
+    <td>readme.md</td>
+    <td>
+      All projects should have one. `md` means <a href='http://daringfireball.net/projects/markdown/'>Markdown</a> which github parses nicely.
+      <em>Although &lt;table&gt; support is not ideal.</em>
+    </td>
+  </tr>
+  <tr>
+    <td>pubspec</td>
+    <td>...todo...</td>
+  </tr>
+  <tr>
+    <td>test/</td>
+    <td>...todo...</td>
+  </tr>
+  <tr>
+    <td>vendor/</td>
+    <td>...todo...</td>
+  </tr>
+  <tr>
+    <td>samples/</td>
+    <td>...todo...</td>
+  </tr>
+</table>
+
+
 ### Authors
  * [Kevin Moore](https://github.com/kevmoo) ([@kevmoo](http://twitter.com/kevmoo))
  * _You? File bugs. Fork and Fix bugs. Let's build this community._
 
 ### [The BSD 2-Clause License](http://www.opensource.org/licenses/bsd-license.php)
 
-    Copyright (c) 2012, dartlib project authors
+    Copyright (c) 2012, dartlblankib project authors
     All rights reserved.
 
     Redistribution and use in source and binary forms, with or without
