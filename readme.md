@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>test/</td>
-    <td>...todo...</td>
+    <td>See <code>readme.me</code> in the test directory.</td>
   </tr>
   <tr>
     <td>vendor/</td>
