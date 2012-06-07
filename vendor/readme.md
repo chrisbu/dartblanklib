@@ -1,5 +1,9 @@
 # Vendor Files
 
+A place to put code from other projects that you can't include with `dart pub`.
+
+By default `unittest` and `dart.js` are included to make testing and browser execution a bit easier.
+
 ## unittest
 
 FYI: These files were copied from the Dart SDK, with a few tweaks to remove warnings.
