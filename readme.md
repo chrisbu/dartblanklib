@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>pubspec</td>
-    <td>...todo...</td>
+    <td>A place to put external dependencies. See the notes in the file.</td>
   </tr>
   <tr>
     <td>test/</td>
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>vendor/</td>
-    <td>...todo...</td>
+    <td>See <code>readme.me</code> in the vendor directory.</td>
   </tr>
   <tr>
     <td>samples/</td>
